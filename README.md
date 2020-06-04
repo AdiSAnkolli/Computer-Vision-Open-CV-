@@ -8,3 +8,8 @@ Following is a repository for Computer Vision using python (PyCharm and OpenCV).
 CHAPTER 1:-
 
 Reading an image, a video, or feed from your own webcam using OpenCV. (Read_Images_Video.py)
+
+
+CHAPTER 2:-
+
+Exploring some basic functionalities and playing around with some images. (Basic_functions.py)
